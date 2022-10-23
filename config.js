@@ -27,7 +27,7 @@ global.packname2 = `Samods`
 
 global.author = "SAMODS"
 
-global.sessionName = "BOT_SUZANO"
+global.sessionName = "bot"
 
 global.NomeDoBot = "SUZANO_BOT"
 
